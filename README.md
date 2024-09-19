@@ -1,6 +1,4 @@
-# Proxy List Repository
-
-Welcome to the Proxy List Repository! This repository contains various types of proxy lists for your use.
+# Proxy List by [@light2k4](https://github.com/light2k4)
 
 ## Stats
 

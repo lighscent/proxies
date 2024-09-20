@@ -4,11 +4,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| HTTP       | 1822  |
-| HTTPS      | 901   |
-| SOCKS4     | 762   |
-| SOCKS5     | 454   |
-| **Total**  | **3939** |
+| HTTP       | 2123  |
+| HTTPS      | 1104  |
+| SOCKS4     | 905   |
+| SOCKS5     | 600   |
+| **Total**  | **4732** |
 
 ## Links for Direct Use
 
@@ -18,6 +18,13 @@
 - [SOCKS5 Proxies](https://raw.githubusercontent.com/light2k4/proxies/master/socks5.txt)
 
 ## Patch Notes
+
+## 20/09 - 02:
+  - HTTP: +301
+  - HTTPS: +203
+  - SOCKS4: +143
+  - SOCKS5: +146
+### `Added 793 proxies in total.`
 
 ## 20/09 - 02:16
   - HTTP: +207

@@ -24,35 +24,35 @@
   - HTTPS: +155
   - SOCKS4: +124
   - SOCKS5: +48
-Added 534 proxies in total.
+#### Added 534 proxies in total.
 
 ### 20/09 - 02:00
   - HTTP: +586
   - HTTPS: +337
   - SOCKS4: +193
   - SOCKS5: +125
-Added 1241 proxies in total.
+#### Added 1241 proxies in total.
 
 ### 20/09 - 01:28
   - HTTP: +365
   - HTTPS: +171
   - SOCKS4: +160
   - SOCKS5: +107
-Added 803 proxies in total.
+#### Added 803 proxies in total.
 
 ### 20/09 - 01:22
   - HTTP: +89
   - HTTPS: +54
   - SOCKS4: +53
   - SOCKS5: +33
-Added 229 proxies in total.
+#### Added 229 proxies in total.
 
 ### 20/09 - 00:47
   - HTTP: +575
   - HTTPS: +184
   - SOCKS4: +192
   - SOCKS5: +127
-Added 1078 proxies in total.
+#### Added 1078 proxies in total.
 
 ## Contributing
 
